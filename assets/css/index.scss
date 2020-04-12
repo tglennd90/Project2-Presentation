@@ -180,7 +180,7 @@ input[name="r"] {
     height: calc(100vh - 14em);
     width: calc(100% - 14em);
     transition: 1s;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
@@ -198,7 +198,7 @@ input[name="r"] {
     z-index: 5;
     position: absolute;
     bottom: 20%;
-    left: 30%;
+    left: 5%;
     font-size: 4em;
 }
 
@@ -208,7 +208,7 @@ input[name="r"] {
     top: 0;
     left: 0;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.8;
     z-index: 1;
     width: 100%;
     height: 100%;
@@ -238,8 +238,8 @@ input[name="r"] {
     z-index: 5;
     position: absolute;
     bottom: 20%;
-    left: 30%;
-    font-size: 4em;
+    left: 5%;
+    font-size: 3.5em;
 }
 
 .slideFive::before {
@@ -248,7 +248,7 @@ input[name="r"] {
     top: 0;
     left: 0;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.7;
     z-index: 1;
     width: 100%;
     height: 100%;
@@ -269,7 +269,7 @@ input[name="r"] {
     color: white;
     z-index: 5;
     position: absolute;
-    font-size: 7em;
+    font-size: 6em;
     text-decoration: underline overline;
 }
 
@@ -277,9 +277,9 @@ input[name="r"] {
     color: white;
     z-index: 5;
     position: absolute;
-    bottom: 20%;
-    left: 30%;
-    font-size: 4em;
+    bottom: 10%;
+    left: 1%;
+    font-size: 3em;
 }
 
 .slideSix::before {
@@ -288,7 +288,7 @@ input[name="r"] {
     top: 0;
     left: 0;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.85;
     z-index: 1;
     width: 100%;
     height: 100%;
@@ -309,7 +309,7 @@ input[name="r"] {
     color: white;
     z-index: 5;
     position: absolute;
-    font-size: 7em;
+    font-size: 5em;
     text-decoration: underline overline;
 }
 
@@ -318,8 +318,8 @@ input[name="r"] {
     z-index: 5;
     position: absolute;
     bottom: 20%;
-    left: 30%;
-    font-size: 4em;
+    left: 1%;
+    font-size: 3em;
 }
 
 .slideSeven::before {
@@ -328,7 +328,7 @@ input[name="r"] {
     top: 0;
     left: 0;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.75;
     z-index: 1;
     width: 100%;
     height: 100%;
